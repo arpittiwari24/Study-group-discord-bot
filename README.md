@@ -1,1 +1,1 @@
-# Stydy-group-discord-sever made with golang
+# Study-group-discord-sever made with golang
