@@ -1,1 +1,1 @@
-# Study-group-discord-sever made with golang
+# Study-group-discord-bot made with golang
